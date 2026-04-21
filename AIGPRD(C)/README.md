@@ -8,6 +8,7 @@
 ## 使用方法
 1. 下载zip包
 2. 将skills放入IDE的目录中
+
 |工具|目录|
 |---|---|
 |**trae-cn**|`.trae-cn/skills/`| 
