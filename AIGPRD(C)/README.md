@@ -7,7 +7,6 @@
 
 ## 使用方法
 1.下载zip包
-
 2. 将skills放入IDE的目录中
 |工具|目录|
 |---|---|
@@ -15,7 +14,6 @@
 |**Antigravity**|`.gemini/skills/`|
 |**Cursor**|`.cursor/skills/`|
 |**Codex**|`.codex/skills/`|
-
 3. 确保skill正确加载并处于启用状态，必要时可能需要重启IDE
 4. 在会话窗口中输入@AIGCC+输出PRD，确保该skill被调用
    eg：@AIGCC，帮我输出PRD
