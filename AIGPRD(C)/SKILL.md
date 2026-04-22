@@ -4,7 +4,7 @@
 
 # AIGPRD(C)-Artificial Intelligence Generated Product Requirement Document(clear)：AI生成产品需求文档
 
-## 任务目标
+# 任务目标
 
 - 本 Skill 用于:基于用户提供的多种形式输入，生成符合标准结构的产品需求文档(PRD)
 - 能力包含:多模态输入分析、需求结构化整理、业务流程梳理、PRD文档生成
