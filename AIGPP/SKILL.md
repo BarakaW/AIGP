@@ -71,7 +71,7 @@
 
 **页面大小**
 
-如果页面为PC端网页，每个页面默认大小为1440\*900，如果页面为移动端网页、app、小程序，每个页面默认大小为390\* 844
+如果页面为PC端网页，每个页面默认大小为1440\*900，如果页面为移动端网页、app、小程序，每个页面默认大小为390\*844
 
 **内容区块**
 
@@ -88,7 +88,7 @@
 **设计规范**
 
 - 如果用户明确指定了使用某个网站或品牌的设计风格，你应该先从`references/`中寻找对应的design.md文件，并遵循其设计规范。
-- 如果用户没有指定某一设计风格，你需要判断功能对应的设备载体，如果是移动端网页、app、小程序，使用`references/Antdesign-PC/design.md`，如果是PC端网页，使用`references/Antdesign-mobile/design.md`
+- 如果用户没有指定某一设计风格，你需要判断功能对应的设备载体，如果是移动端网页、app、小程序，使用`references/Antdesign-mobile/design.md`，如果是PC端网页，使用`references/Antdesign-PC/design.md`
 
 ## 4. 开发规划
 
