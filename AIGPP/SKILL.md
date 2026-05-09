@@ -170,11 +170,26 @@ AI图片内容识别，提取图片关键信息
 
 允许使用的外部资源：[iconfont](https://www.iconfont.cn/)上的图标
 
+**skills使用**
+
+在输出HTML页面时，你应该使用impeccable这一skills，用`/impeccable shape`命令在编写代码之前先规划用户体验/用户界面，按照表格所示的作用，在恰当时机使用references
+
+| Reference                                                                                                | Covers                                               |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| typography               | Type systems, font pairing, modular scales, OpenType |
+| color-and-contrast | OKLCH, tinted neutrals, dark mode, accessibility     |
+| spatial-design       | Spacing systems, grids, visual hierarchy             |
+| motion-design           | Easing curves, staggering, reduced motion            |
+| interaction-design | Forms, focus states, loading patterns                |
+| responsive-design   | Mobile-first, fluid design, container queries        |
+| ux-writing                | Button labels, error messages, empty states          |
+
 **禁止使用**
 
 - Vue/React 等任何前端框架
 - 需要编译的工具链
 - 外部 API 请求
+- 当impeccable这一skill中的原则与本skill冲突时，你应当优先遵循本skill所述，不要直接按照impeccable的标准执行
 
 ### 5.2 视觉风格
 
@@ -293,6 +308,11 @@ const MOCK_DATA = {
   ]
 };
 ```
+
+### 5.7 代码检查
+
+在页面构建完成之后，你应当使用impeccable这一skill中的
+`/impeccable critique`	命令进行用户体验设计评审，用`/impeccable audit`	命令进行运行技术质量检查
 
 ## 6. 输出与说明
 
