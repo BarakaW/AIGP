@@ -28,13 +28,11 @@
 
 下载zip并解压，根据不同的IDE，放在不同的目录下
 
-推荐trae-cn（免费但目前排队严重）、antigravity（封号较
-
 |名称|目录|现状|
 |---|---|---|
 |全局|~/.agents/skills/|
-|trae-cn|~/.trae-cn/skills|免费但排队严重|
+|trae-cn|~/.trae-cn/skills/|免费但排队严重|
 |Claude code|~/.claude/skills/|风控严格且反华，基本不可用|
-|codex|~/.​codex​/​skills​/||
+|codex|~/.​codex​/​skills​/|
 |cursor|~/.cursor/skills/|
 |antigravity|~/.gemini/skills/|
