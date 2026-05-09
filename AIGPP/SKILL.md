@@ -172,7 +172,7 @@ AI图片内容识别，提取图片关键信息
 
 **skills使用**
 
-在输出HTML页面时，你应该使用impeccable这一skills，用`/impeccable shape`命令在编写代码之前先规划用户体验/用户界面，按照表格所示的作用，在恰当时机使用references
+在输出HTML页面时，你应该使用impeccable这一skills(skill位于`/references/impeccable`)，用`/impeccable shape`命令在编写代码之前先规划用户体验/用户界面，按照表格所示的作用，在恰当时机使用references
 
 | Reference                                                                                                | Covers                                               |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
@@ -311,7 +311,7 @@ const MOCK_DATA = {
 
 ### 5.7 代码检查
 
-在页面构建完成之后，你应当使用impeccable这一skill中的
+在页面构建完成之后，你应当使用impeccable这一skill(skill位于`/references/impeccable`)中的
 `/impeccable critique`	命令进行用户体验设计评审，用`/impeccable audit`	命令进行运行技术质量检查
 
 ## 6. 输出与说明
