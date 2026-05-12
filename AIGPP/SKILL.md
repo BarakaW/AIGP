@@ -88,8 +88,11 @@
 
 **设计规范**
 
-- 如果用户明确指定了使用某个网站或品牌的设计风格，你应该先从`references/`中寻找对应网站或品牌的资源文件夹，并加载其中的design.md文件，遵循design.md的设计规范生成。注意：该文件夹中的网站和品牌均为英文名称，用户可能给你网站或品牌的中文名称，你需要自主判断匹配英文名称
-- 如果用户没有指定某一设计风格，你需要判断功能对应的设备载体，如果是移动端网页、app、小程序，使用`references/Antdesign-mobile/design.md`，如果是PC端网页，使用`references/Antdesign-PC/design.md`
+- 如果你能够有正确使用design.md的能力或能够遵循design.md
+  - 当用户明确指定了使用某个网站或品牌的设计风格时，你应该先从`references/`中寻找对应网站或品牌的资源文件夹，并加载其中的design.md文件，遵循design.md的设计规范生成。注意：该文件夹中的网站和品牌均为英文名称，用户可能给你网站或品牌的中文名称，你需要自主判断匹配英文名称
+  - 当用户没有指定某一设计风格时，你需要判断功能对应的设备载体，如果是移动端网页、app、小程序，使用`references/Antdesign-mobile/design.md`，如果是PC端网页，使用`references/Antdesign-PC/design.md`
+- 如果你没有正确使用design.md的能力或不能遵循design.md
+  - 在生成HTML页面时，你应当使用impeccable这一skill，skill位于`references/impeccable`目录下
 
 ## 4. 开发规划
 
