@@ -198,7 +198,10 @@ AI图片内容识别，提取图片关键信息
 
 **配色**
 
-你应当遵循前述步骤中选择的design.md文件，并遵循其中的配色
+- 当你使用了design.md文件时
+  - 你应当遵循前述步骤中选择的design.md文件，并遵循其中的配色
+- 当你没有使用design.md文件时
+  - 你应当遵循impeccable这一skill中的配色规范，skill位于`references/impeccable`目录下
 
 **字体**
 
