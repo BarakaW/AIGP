@@ -38,6 +38,12 @@
 
 直接说，写PRD，画原型，评审需求
 
+# 警告
+
+AI生成结果务必经过人工确认后再应用于生产场景
+请勿100%相信AI，请勿100%依赖AI
+> AI工具只是辅助，牛马打工仍需专注
+
 # 鸣谢
 
 [impeccable](https://github.com/pbakaus/impeccable/tree/main)
